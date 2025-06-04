@@ -1,0 +1,3 @@
+One of my past hobbies was competing in film festivals, where I primarily served as the cinematographer on set. I particularly enjoyed the color grading process and developed a deep appreciation for its artistic and technical aspects. Now as a computer science student, I've decided to combine these two areas of interest into this project.
+This project analyzes high-quality stills from movies to extract color grading information, which can then be applied to your own creative projects. By dissecting the color data from professional films, users can learn from and implement industry-standard color grading techniques.
+This is a work in progress and is actively being developed. Any contributions would be greatly appreciated!
